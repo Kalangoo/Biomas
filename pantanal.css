@@ -1,18 +1,18 @@
 body{
     margin: 0;
     font-family: Arial;
-    background: url(img/pantano.jpg);
-    background-size: 1750px;
+    background: url(img/trees_kroner_reflection_river_summer-719655.jpg);
+    background-size: 5000px;
 
 
 }
 
 header{
-    background-color: rgb(32, 56, 36);
+    background-color: rgb(17, 58, 24);
     padding: 16px;
     z-index: 12;
     position: sticky;
-    
+    opacity: 69%;
 }
 
 a{
@@ -26,11 +26,11 @@ a{
 
 nav{
     
-    background-color: rgb(39, 49, 41);
+    background-color: rgb(42, 49, 43);
     color: #c04646;
     padding: 1px;
     height: 170px;
-    
+    opacity: 69%;
 }
 
 nav ul{
@@ -59,7 +59,7 @@ nav li > a{
 
 nav li > a:hover{
     color: #ffffff;
-    border-bottom: 2px solid #a6ff00;
+    border-bottom: 2px solid #375500;
 }
 
 
@@ -89,9 +89,8 @@ nav li > a:hover{
 
 .row-color-aliceblue{
     
-    background-color: aliceblue;
+    background-color: rgb(14, 14, 14);
 }
-
 .col{
     height: 500px;
     padding: 24px;
@@ -138,9 +137,9 @@ button{
     width: 72%;
     border-radius: 0.45em;
     padding: 8px;
-    background-color: #4d0313;
+    background-color: #244d03;
     outline: none;
-    color: #fff;
+    color: rgb(195, 255, 0);
 
 }
 
