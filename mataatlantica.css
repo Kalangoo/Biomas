@@ -2,17 +2,17 @@ body{
     margin: 0;
     font-family: Arial;
     background: url(img/atlantica.jpg);
-    background-size: 1750px;
+    background-size: 4750px;
 
 
 }
 
 header{
-    background-color: rgb(16, 0, 105);
+    background-color: rgb(9, 105, 0);
     padding: 16px;
     z-index: 12;
     position: sticky;
-    
+    opacity: 69%;
 }
 
 a{
@@ -26,11 +26,11 @@ a{
 
 nav{
     
-    background-color: rgb(0, 53, 114);
+    background-color: rgb(42, 114, 0);
     color: #c04646;
     padding: 1px;
     height: 170px;
-    
+    opacity: 69%;
 }
 
 nav ul{
@@ -59,7 +59,7 @@ nav li > a{
 
 nav li > a:hover{
     color: #ffffff;
-    border-bottom: 2px solid #a6ff00;
+    border-bottom: 2px solid #00ffd5;
 }
 
 
@@ -89,7 +89,7 @@ nav li > a:hover{
 
 .row-color-aliceblue{
     
-    background-color: aliceblue;
+    background-color: rgb(14, 14, 14);
 }
 
 .col{
@@ -138,9 +138,9 @@ button{
     width: 72%;
     border-radius: 0.45em;
     padding: 8px;
-    background-color: #4d0313;
+    background-color: #144d03;
     outline: none;
-    color: #fff;
+    color: rgb(105, 255, 35);
 
 }
 
