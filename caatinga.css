@@ -2,7 +2,7 @@ body{
     margin: 0;
     font-family: Arial;
     background: url(img/caatinga.jpg);
-    background-size: 1750px;
+    background-size: 4050px;
     color: white; 
     
 }
@@ -12,7 +12,7 @@ header{
     padding: 16px;
     z-index: 12;
     position: sticky;
-    
+    opacity: 69%;
 }
 
 a{
@@ -30,7 +30,7 @@ nav{
     color: #c04646;
     padding: 1px;
     height: 170px;
-    
+    opacity: 69%;
 }
 
 nav ul{
@@ -89,7 +89,7 @@ nav li > a:hover{
 
 .row-color-aliceblue{
     
-    background-color: aliceblue;
+    background-color: rgb(14, 14, 14);
 }
 
 .col{
@@ -138,9 +138,9 @@ button{
     width: 72%;
     border-radius: 0.45em;
     padding: 8px;
-    background-color: #4d0313;
+    background-color: #c8ff00;
     outline: none;
-    color: #fff;
+    color: rgb(0, 0, 0);
 
 }
 
